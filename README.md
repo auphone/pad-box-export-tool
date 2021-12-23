@@ -12,7 +12,7 @@ Please note that there are a lot of hardcoded stuff inside the scripts, you shou
 
 If you know Chinese, you can also check out my blog to get "slightly" more detail there
 
-https://auphone.net/posts/%E5%8C%AF%E5%87%BA%E9%BE%8D%E6%97%8F%E6%8B%BC%E5%9C%96%EF%BC%88Puzzle-Dragons%EF%BC%89%E5%AF%B5%E7%89%A9%E6%B8%85%E5%96%AE%E7%9A%84%E6%96%B9%E6%B3%95/
+https://auphone.net/posts/匯出龍族拼圖（Puzzle-Dragons）寵物清單的方法/
 
 ## Pre-request
 
