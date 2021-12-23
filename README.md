@@ -1,18 +1,20 @@
-# What is this project
+## About this project
 
 This is a project aim to extract my pets from Puzzle and dragons for development usage
 
-# How does it works?
+## How does it works?
 
 Use ffmpeg + ImageMagick to extract the pet icons from screen recording that scroll through the in-game box from top to bottom. Then use opencv features matching (SIFT + FLANN) to match the extracted icons with the original pet images
 
-# Before you start
+## Before you start
 
 Please note that there are a lot of hardcoded stuff inside the scripts, you should read the code and adjust the values by yourself.
 
 If you know Chinese, you can also check out my blog to get "slightly" more detail there
 
-# Pre-request
+https://auphone.net/posts/%E5%8C%AF%E5%87%BA%E9%BE%8D%E6%97%8F%E6%8B%BC%E5%9C%96%EF%BC%88Puzzle-Dragons%EF%BC%89%E5%AF%B5%E7%89%A9%E6%B8%85%E5%96%AE%E7%9A%84%E6%96%B9%E6%B3%95/
+
+## Pre-request
 
 The version on my DEV env, FYI
 
@@ -50,4 +52,4 @@ I got the images from one of the Chinese wiki website. I don't recommend it, but
 
 At the end you will get an ID list located at `./out/ids.txt`
 
-# Have fun
+#### Have fun ( ﾟДﾟ)σ
